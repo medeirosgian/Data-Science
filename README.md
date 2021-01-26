@@ -1,6 +1,10 @@
+![Banner](https://github.com/medeirosgian/Data-Science/blob/main/banner.png)
+
 ## Data-Science
 
-Esse repositório contém os notebooks dos meus projetos desenvolvidos durante meus estudos pessoais para me tornar um Cientista de Dados
+Esse repositório contém os notebooks dos meus projetos desenvolvidos durante meus estudos pessoais para me tornar um Cientista de Dados.
+
+LinkedIn: http://bit.ly/gianMedeirosLinkedIn
 
 ## Projetos
 Lista de projetos utilizando o Google Colab:
