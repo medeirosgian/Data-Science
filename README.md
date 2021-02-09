@@ -9,7 +9,7 @@ LinkedIn: http://bit.ly/gianMedeirosLinkedIn
 ## Projetos
 Lista de projetos utilizando o Google Colab:
 - Análise Exploratória dos dados públicos do AirBnb: https://bit.ly/airBnbAnalise
-- Analise dos dados de Segurança Pública do estado do Riod e Janeiro: https://bit.ly/3jqAbYk
+- Analise dos dados de Segurança Pública do estado do Rio de Janeiro: https://bit.ly/3jqAbYk
 
 # Sobre mim:
 Atualmente sou graduando em Engenharia de Produção na cidade de Ponta Grossa-PR.
